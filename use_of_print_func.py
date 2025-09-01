@@ -1,0 +1,8 @@
+print("===================================")
+print("DAILY PROGRESS REPORT: Day 2")
+print("===================================")
+print("")
+print("User: Vaibhav")
+print("Mission: Master Python Fundamentals")
+print("Today's Achievement: Successfully used the print() function to create this report.")
+print("Status: Mission is on track.")
